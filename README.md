@@ -1,13 +1,13 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ysumita530&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=corner0530&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysumita530&count_private=true&theme=tokyonight&langs_count=8&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corner0530&count_private=true&theme=tokyonight&langs_count=8&layout=compact" />
 </a>
 
 <!--
-**ysumita530/ysumita530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**corner0530/corner0530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
