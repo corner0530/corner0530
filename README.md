@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corner0530&count_private=true&theme=tokyonight&langs_count=8&layout=compact" />
+  <img align="left" src="https://github-readme-stats-sigma-ebon.vercel.app/api/top-langs?username=corner0530" />
 </a>
 
 <!--
